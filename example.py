@@ -93,7 +93,7 @@ print(area)
 a=float(input("enter first"))
 b=float(input("enter second"))
 print("average is ",(a+b)/2)"""
-
+print("hello")
 #compare
 a=int(input("enter"))
 b=int(input("second"))
